@@ -1,3 +1,4 @@
+package com.akkasamples.basic.tell;
 import akka.actor.ActorRef;
 import akka.actor.ActorSystem;
 import akka.actor.Props;
@@ -8,6 +9,12 @@ import akka.actor.Props;
 
 /**
  * @author Rakesh
+ *
+ */
+
+/**
+ * This is my first application to test AKKA with the main method.
+ * @author chouhan_r
  *
  */
 public class AkkaWithMain {

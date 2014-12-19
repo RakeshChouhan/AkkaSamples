@@ -1,3 +1,4 @@
+package com.akkasamples.basic.tell;
 import akka.actor.UntypedActor;
 
 public class HelloActor extends UntypedActor {
