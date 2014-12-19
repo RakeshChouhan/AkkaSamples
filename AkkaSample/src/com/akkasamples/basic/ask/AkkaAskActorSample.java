@@ -4,6 +4,7 @@
 package com.akkasamples.basic.ask;
 
 /**
+ * This is a new sample
  * @author chouhan_r
  *
  */

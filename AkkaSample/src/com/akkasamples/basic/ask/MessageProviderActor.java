@@ -6,6 +6,7 @@ package com.akkasamples.basic.ask;
 import akka.actor.UntypedActor;
 
 /**
+ * Sample actor for ask feature
  * @author chouhan_r
  *
  */
